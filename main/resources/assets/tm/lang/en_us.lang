@@ -1,2 +1,5 @@
-item.ingot_silver=Silver Ingot
-tile.block_silver=Silver Block
+//Items
+item.ingot_silver.name=Silver Ingot
+
+//Blocks
+tile.block_silver.name=Silver Block
