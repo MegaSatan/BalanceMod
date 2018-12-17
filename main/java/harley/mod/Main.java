@@ -1,5 +1,6 @@
 package harley.mod;
 
+import harley.mod.init.RecipesInit;
 import harley.mod.proxy.CommonProxy;
 import harley.mod.util.Reference;
 import net.minecraftforge.fml.common.Mod;
@@ -24,7 +25,7 @@ public class Main {
 	}
 	@EventHandler
 	public static void init(FMLInitializationEvent event) {
-		
+		RecipesInit.init();
 	}
 	@EventHandler
 	public static void postInit(FMLPostInitializationEvent event) {
