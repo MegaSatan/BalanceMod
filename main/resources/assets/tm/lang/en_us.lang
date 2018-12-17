@@ -1,5 +1,13 @@
 //Items
 item.ingot_silver.name=Silver Ingot
 
+//Tools
+item.sword_silver.name=Silver Sword
+item.spade_silver.name=Silver Shovel
+item.pickaxe_silver.name=Silver Pickaxe
+item.axe_silver.name=Silver Axe
+item.hoe_silver.name=Silver Hoe
+
 //Blocks
 tile.block_silver.name=Silver Block
+tile.ore_silver.name=Silver Ore
