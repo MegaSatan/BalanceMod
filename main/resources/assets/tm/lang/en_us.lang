@@ -9,7 +9,7 @@ item.axe_silver.name=Silver Axe
 item.hoe_silver.name=Silver Hoe
 
 //Blocks
-tile.block_silver.name=Silver Block
+tile.block_silver.name=Block of Silver
 tile.ore_silver.name=Silver Ore
 
 //Armor
