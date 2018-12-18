@@ -11,3 +11,9 @@ item.hoe_silver.name=Silver Hoe
 //Blocks
 tile.block_silver.name=Silver Block
 tile.ore_silver.name=Silver Ore
+
+//Armor
+item.helmet_silver.name=Silver Helmet
+item.chestplate_silver.name=Silver Chestplate
+item.leggings_silver.name=Silver Leggings
+item.boots_silver.name=Silver Boots
